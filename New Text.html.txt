@@ -1,9 +1,0 @@
-<html>
-
-<head>
-<title> check
-</title>
-</head>
-<body> hell world
-</body>
-</html>
